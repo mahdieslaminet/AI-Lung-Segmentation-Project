@@ -2,6 +2,9 @@
 This repository implements a U-Net deep learning model for binary lung segmentation on chest X-ray images. The project reproduces a standard medical image segmentation pipeline: preprocessing, training/validation/testing, metric reporting, and qualitative visualization.
 
 ---
+📌 **Google Drive (Public):**
+https://drive.google.com/drive/folders/1gqCNXe-d4njQUaNNkiCVTBO7lCVYO3Ba?usp=sharing
+---
 
 ## What is U-Net?
 **U-Net** is a convolutional neural network architecture designed for **biomedical image segmentation**, introduced in 2015 by **Ronneberger, Fischer, and Brox**. Unlike classification models, U-Net performs **pixel-level prediction**, assigning a label to *every pixel* in an image.
